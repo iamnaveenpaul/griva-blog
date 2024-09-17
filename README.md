@@ -21,7 +21,7 @@
 git clone https://github.com/iamnaveenpaul/griva.git
 
 # change into the repo directory
-cd griva-blog
+cd griva
 
 # !! create .env file with the model from .env.example !!
 
